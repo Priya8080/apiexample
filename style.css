@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 40px;
+      background-color: #fefae0; */
+    /* } */
+body{
+    background-color: rgb(15, 15, 144);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+    gap: 2rem;
+}
+#dog{
+    background-color: cadetblue;
+    color: white;
+    border-radius: 10px;
+    padding: 0.3rem;
+}
+
+#cat{
+    background-color: cadetblue;
+    color: white;
+    border-radius: 10px;
+    padding: 0.3rem;
+}
+button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-top: 20px;
+      cursor: pointer;
+    }
+    #joke {
+       background-color: cadetblue;
+    color: white;
+    border-radius: 10px;
+    padding: 0.3rem;
+    }
